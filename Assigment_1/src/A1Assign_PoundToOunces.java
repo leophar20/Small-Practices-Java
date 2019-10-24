@@ -1,6 +1,5 @@
+	/**Java Convertion from pound to ounces **/
 	import java.util.Scanner;
-	
-	
 	public class A1_2 {
 		private static Scanner input;
 
