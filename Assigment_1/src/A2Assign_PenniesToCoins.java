@@ -1,3 +1,4 @@
+/**converting pennies to other coins**/
 import java.util.Scanner;
 
 public class A2_1 {
